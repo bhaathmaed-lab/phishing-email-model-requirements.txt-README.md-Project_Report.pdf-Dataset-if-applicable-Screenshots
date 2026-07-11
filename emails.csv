@@ -1,0 +1,24 @@
+text,label
+"Congratulations! You have won a free iPhone. Click the link to claim your prize.",phishing
+"Your bank account has been suspended. Verify your details immediately.",phishing
+"Click here to reset your password now.",phishing
+"Your PayPal account has unusual activity. Login immediately.",phishing
+"You have received a tax refund. Claim it now.",phishing
+"Limited-time offer! Get a free gift card today.",phishing
+"Your package delivery has failed. Update your address.",phishing
+"Urgent! Confirm your account within 24 hours.",phishing
+"Your email storage is full. Click here to increase storage.",phishing
+"Security alert! Verify your identity to continue.",phishing
+"Meeting has been scheduled for tomorrow at 10 AM.",legitimate
+"Please find the attached project report.",legitimate
+"Happy Birthday! Have a wonderful day.",legitimate
+"The seminar starts at 2 PM in the conference hall.",legitimate
+"Your order has been shipped successfully.",legitimate
+"Team meeting has been postponed to Friday.",legitimate
+"Your electricity bill has been paid successfully.",legitimate
+"Thank you for registering for our workshop.",legitimate
+"Your interview is scheduled for Monday.",legitimate
+"Please review the attached assignment before submission.",legitimate
+
+Save it as:
+emails.csv
