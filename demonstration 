@@ -1,0 +1,20 @@
+ 1.Explain the problem
+Phishing emails are used to steal sensitive information.
+A machine learning model can help identify suspicious emails automatically.
+ 2.Show the dataset
+Open emails.csv.
+ 3.Explain the two columns: text and label.
+Run the program
+python phishing_detector.py
+[Enter a phishing email]
+Congratulations! You have won a free iPhone.
+Click here to claim your prize.
+Expected Output:
+Prediction: PHISHING
+Enter a legitimate email
+Please attend the project review meeting at 10 AM tomorrow.
+Expected Output:
+Prediction: LEGITIMATE
+Explain the result
+The model converts the email text into numerical features using TF-IDF.
+The Naive Bayes classifier predicts whether the email is phishing or legitimate based on patterns learned during training
