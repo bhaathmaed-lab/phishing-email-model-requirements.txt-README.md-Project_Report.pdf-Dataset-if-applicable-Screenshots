@@ -1,0 +1,33 @@
+                START
+                  │
+                  ▼
+      Collect Email Dataset (emails.csv)
+                  │
+                  ▼
+          Data Preprocessing
+   (Clean Text & TF-IDF Vectorization)
+                  │
+                  ▼
+      Split Dataset (Train/Test)
+                  │
+                  ▼
+     Train Naive Bayes Classifier
+                  │
+                  ▼
+         Evaluate Model Accuracy
+                  │
+                  ▼
+      Save Model (phishing_model.pkl)
+                  │
+                  ▼
+        User Enters Email Text
+                  │
+                  ▼
+        Model Predicts Email
+      (Phishing / Legitimate)
+                  │
+                  ▼
+          Display Prediction
+                  │
+                  ▼
+                 END
